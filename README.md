@@ -1,0 +1,2 @@
+# smptk
+informasi akademik
